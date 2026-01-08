@@ -26,5 +26,8 @@ Database	MongoDB
 Others	NanoID / ShortID, Mongoose
 📌 API Endpoints
 Method	Endpoint	Description
+
 POST	/api/shorten	Create short URL
+
+
 GET	/:shortId	Redirect to original URL
